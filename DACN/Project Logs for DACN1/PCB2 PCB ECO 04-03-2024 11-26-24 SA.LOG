@@ -1,0 +1,16 @@
+Added Component: Designator=HD?(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=PS?(CONV_HLK-10M05)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HLK-10M05/Hi-link/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HLK-10M05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HLK-10M05/Hi-link/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC1 Pin=HD?-2
+Added Pin To Net: NetName=AC1 Pin=PS?-1
+Added Net: Name=AC1
+Added Pin To Net: NetName=AC2 Pin=HD?-1
+Added Pin To Net: NetName=AC2 Pin=PS?-2
+Added Net: Name=AC2
+Added Class: Name=Sheet2
